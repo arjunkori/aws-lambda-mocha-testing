@@ -1,0 +1,19 @@
+{
+  "name": "lambda_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LambdaTest.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "arjun",
+    "kori"
+  ],
+  "author": "arjun kori",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "lambda-tester": "^4.0.1"
+  }
+}
